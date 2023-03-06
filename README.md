@@ -3,7 +3,7 @@ This is a [wagmi](https://wagmi.sh) + [RainbowKit](https://rainbowkit.com) + [Ne
 # Getting Started
 
 Clone this repository and install dependencies:
-`git clone git@github.com:CrystallineButterfly/Create-wagmi-rbkit-js.git && cd Create-wagmi-rbkit-js && npm install`
+`git clone git@github.com:CrystallineButterfly/Create-wagmi-rbkit-js.git && cd my-app && npm install`
 
 
 Run `npm run dev` in your terminal, and then open [localhost:3000](http://localhost:3000) in your browser.
